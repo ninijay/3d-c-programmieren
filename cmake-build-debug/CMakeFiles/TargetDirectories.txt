@@ -1,0 +1,3 @@
+/Users/zanidd/dvnll/repos/school/c-grundlagen/cmake-build-debug/CMakeFiles/c_grundlagen.dir
+/Users/zanidd/dvnll/repos/school/c-grundlagen/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zanidd/dvnll/repos/school/c-grundlagen/cmake-build-debug/CMakeFiles/rebuild_cache.dir
